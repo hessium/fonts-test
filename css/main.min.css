@@ -312,25 +312,25 @@ template {
   font-family: "CenturyGothicRegular";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/CenturyGothicRegular.ttf") format("ttf"), url("../fonts/CenturyGothicRegular.ttf") format("ttf"); }
+  src: url("fonts/CenturyGothicRegular.ttf") format("ttf"), url("../fonts/CenturyGothicRegular.ttf") format("ttf"); }
 
 @font-face {
   font-family: "CenturyGothicBold";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/CenturyGothicBold.ttf") format("ttf"), url("../fonts/CenturyGothicBold.ttf") format("ttf"); }
+  src: url("fonts/CenturyGothicBold.ttf") format("ttf"), url("fonts/CenturyGothicBold.ttf") format("ttf"); }
 
 @font-face {
   font-family: "CenturyGothicItalic";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/CenturyGothicItalic.ttf") format("ttf"), url("../fonts/CenturyGothicItalic.ttf") format("ttf"); }
+  src: url("fonts/CenturyGothicItalic.ttf") format("ttf"), url("fonts/CenturyGothicItalic.ttf") format("ttf"); }
 
 @font-face {
   font-family: "CenturyGothicBoldItalic";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/CenturyGothicBoldItalic.ttf") format("ttf"), url("../fonts/CenturyGothicBoldItalic.ttf") format("ttf"); }
+  src: url("fonts/CenturyGothicBoldItalic.ttf") format("ttf"), url("fonts/CenturyGothicBoldItalic.ttf") format("ttf"); }
 
 html {
   line-height: 1.15;
